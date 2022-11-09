@@ -1,0 +1,11 @@
+{
+    "LIB_NAME" : "example",
+    "PROJECT_DIR" : "path/to/dir",
+    "HEADERS_DIR" : "path/to/headers",
+    "BINDINGS_DIR" : "path/to/bindings",
+    "HEADER_NAME" : "example",
+    "CLASS_HEADER_NAME" : "example",
+    "module_name" : "module",
+    "CLASS_NAME" : "classname",
+    "CLASS_FILE_NAME" : "classfilename"
+}
